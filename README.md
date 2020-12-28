@@ -41,7 +41,8 @@ start esx_autopilot
 ### License
 Script For ESX
 
-Edited By DrChamp1 aka (!ϟϟ!) 
+Edited By DrChamp1 aka (!ϟϟ!)
+
 Created By Dev Adnani
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
