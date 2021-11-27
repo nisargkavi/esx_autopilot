@@ -41,7 +41,7 @@ start esx_autopilot
 ### License
 Script For ESX
 
-Edited By DrChamp1 aka !Champ#3954
+Edited By DrChamp1
 
 Created By Dev Adnani
 
